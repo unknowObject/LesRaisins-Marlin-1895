@@ -1,0 +1,33 @@
+{
+  // 弹药堆模型
+  "model": "marlin1895:ammo/45_70_geo",
+  // 弹药堆模型贴图
+  "texture": "marlin1895:ammo/uv/45_70",
+  // 背包 2D 贴图
+  "slot": "marlin1895:ammo/slot/45_70",
+  // 弹壳模型和贴图
+  "shell": {
+    "model": "marlin1895:shell/45_70_shell",
+    "texture": "marlin1895:shell/45_70_shell"
+  },
+  //缩放
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "ground": [
+        0.3,
+        0.3,
+        0.3
+      ],
+      "fixed": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    }
+  }
+}

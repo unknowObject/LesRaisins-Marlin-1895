@@ -1,0 +1,19 @@
+{	
+	"materials": [
+		{
+			"item": {"tag": "forge:ingots/copper"},
+			"count": 20
+		},
+		{
+			"item": {"tag": "forge:gunpowder"},
+			"count": 5
+		}
+	],
+	"result": {
+		"type": "ammo",  
+		// 类型，配件的类型固定为 ammo
+		"id": "marlin1895:45_70",
+		// 输出的弹药的 id
+		"count": 40
+	}
+}

@@ -1,0 +1,76 @@
+{
+  // 材料
+  "materials": [
+    {
+      "item": {
+        // 材料类型
+        "tag": "forge:ingots/iron"
+      },
+      "count": 5
+    },
+	{
+	  "item": {
+        // 材料类型
+        "tag": "forge:gems/lapis"
+      },
+      "count": 2
+	},
+	//{
+    //  "item": {
+        // 特定的某种材料
+    //    "item": "minecraft:black_dye"
+    //  },
+    //  "count": 2
+    //},
+	{
+      "item": {
+        // 特定的某种材料
+        "item": "minecraft:black_dye"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        // forge 提供的宽松型 NBT 写法，只要输入物品符合其中的 NBT，即可合成
+        "type": "forge:partial_nbt",
+        // 默认枪械物品 id
+        "item": "tacz:modern_kinetic_gun",
+        // 附加的 NBT 数值
+        // 这里我们填写了枪械 id
+        "nbt": {
+          "GunId": "tacz:db_long"
+        }
+      },
+      "count": 1
+    }      
+    //{
+    //  "item": {
+        // forge 提供的宽松型 NBT 写法，只要输入物品符合其中的 NBT，即可合成
+    //    "type": "forge:partial_nbt",
+        // 默认配件物品 id
+    //    "item": "tacz:attachment",
+        // 附加的 NBT 数值
+        // 这里我们填写了配件 id
+    //    "nbt": {
+    //      "AttachmentId": "tacz:scope_acog_ta31"
+    //    }
+    //  },
+    //  "count": 2
+    //}
+  ],
+  // 输出结果
+  "result": {
+    // 类型，枪械的类型固定为 gun
+    "type": "gun",
+    // 输出的枪械的 id
+    "id": "marlin1895:marlin1895"
+    // 以下内容为选填参数，仅对枪械起效
+    // 配件，可以使合成出的枪械自带配件，填入配件 id
+    //"attachments": {
+       // 配件类型：配件 id
+       //"muzzle": "tacz:bayonet_m9"
+    //},
+    // 子弹，可以使合成出的枪械自带子弹
+    //"ammo_count": 0
+  }
+}

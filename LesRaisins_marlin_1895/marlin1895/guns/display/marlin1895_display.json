@@ -18,6 +18,8 @@
     "sounds": {
 	"shoot": "marlin1895:marlin1895/marlin1895_shoot",
 	"shoot_3p": "marlin1895:marlin1895/marlin1895_shoot_3p",
+	"silence": "marlin1895:marlin1895/marlin1895_silence",
+	"silence_3p": "marlin1895:marlin1895/marlin1895_silence_3p",
 	"draw": "marlin1895:marlin1895/marlin1895_draw",
 	"bolt": "marlin1895:marlin1895/marlin1895_bolt",
 	"reload_empty": "marlin1895:marlin1895/marlin1895_reload_empty",

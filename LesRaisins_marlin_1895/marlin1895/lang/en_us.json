@@ -1,9 +1,9 @@
 {
   "pack.marlin1895.marlin1895.name": "LesRaisins' Marlin 1895",
-  "pack.marlin1895.marlin1895.desc": "Marlin 1895 from LesRaisin's gun pack for tacz.",
+  "pack.marlin1895.marlin1895.desc": "Marlin 1895 from LesRaisin's gun pack for tacz. Model and animation from LesRaisins' gunpack",
   
   "marlin1895.gun.marlin1895.name": "Marlin 1895 Lever-Action Rifle",
-  "marlin1895.gun.marlin1895.desc": "Marlin 1895 Lever-Action Rifle, model and animation from LesRaisins' gunpack",
+  "marlin1895.gun.marlin1895.desc": "High performance, sturdy, and durable. Very popular among hunting enthusiasts.",
   
   "marlin1895.ammo.45_70.name": ".45-70 Magnum"
 }

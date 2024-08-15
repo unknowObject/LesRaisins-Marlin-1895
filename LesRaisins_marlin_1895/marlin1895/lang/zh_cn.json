@@ -1,9 +1,9 @@
 {
   "pack.marlin1895.marlin1895.name": "绿葡萄的Marlin 1895",
-  "pack.marlin1895.marlin1895.desc": "绿葡萄附属包Marlin 1895的tacz移植版。",
+  "pack.marlin1895.marlin1895.desc": "绿葡萄附属包Marlin 1895的tacz移植版，模型及部分动画来自1.16.5版本LesRaisins附属包及tacz本体。",
   
   "marlin1895.gun.marlin1895.name": "Marlin 1895 杠杆步枪",
-  "marlin1895.gun.marlin1895.desc": "Marlin 1895 杠杆步枪，模型及部分动画来自1.16.5版本LesRaisins附属包及tacz本体。",
+  "marlin1895.gun.marlin1895.desc": "性能优异，坚固耐用，非常受狩猎爱好者欢迎。",
   
   "marlin1895.ammo.45_70.name": ".45-70 马格南 狙击弹"
 }

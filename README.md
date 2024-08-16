@@ -1,26 +1,21 @@
 <p align="center">
-    <img width="300" src="https://s2.loli.net/2024/04/30/NJrstR1QzpoLyIT.png" alt="title">
+    <img width="300" src="https://github.com/user-attachments/assets/019e489a-395f-48a3-bd3c-83582165112f" alt="title">
 </p>
+
 <hr>
 <p align="center">Marlin 1895 from LesRaisins Append Pack for TacZ</p>
 <p align="center">
-    <a href="https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero">
-        <img src="http://cf.way2muchnoise.eu/full_timeless-and-classics-zero.svg" alt="CurseForge Download">
+    <a href="https://www.curseforge.com/minecraft/customization/tacz-marlin-1895-for-tacz-from-lesraisins-append">
+        <img src="http://cf.way2muchnoise.eu/full_tacz-marlin-1895-for-tacz-from-lesraisins-append.svg" alt="CurseForge Download">
     </a>
     <img src="https://img.shields.io/badge/license-GNU GPL 3.0 | CC%20BY--NC--ND%204.0-green" alt="License">
     <br>
-    <a href="https://jitpack.io/#MCModderAnchor/TACZ">
-        <img src="https://jitpack.io/v/MCModderAnchor/TACZ.svg" alt="jitpack build">
-    </a>
-    <a href="https://crowdin.com/project/tacz">
-        <img src="https://badges.crowdin.net/tacz/localized.svg" alt="crowdin">
-    </a>
 </p>
 <p align="center">
-    <a href="https://github.com/MCModderAnchor/TACZ/issues">Report Bug</a>    ·
-    <a href="https://github.com/MCModderAnchor/TACZ/releases">View Release</a>    ·
-    <a href="https://tacwiki.mcma.club/zh/">Wiki</a>
+    <a href="https://github.com/unknowObject/LesRaisins-Marlin-1895/issues">Report Bug</a>    ·
+    <a href="https://github.com/unknowObject/LesRaisins-Marlin-1895/releases">View Release</a>
 </p>
+
 该扩展包只适用于"Timeless and Classic Guns: Zero"。
 
 This gun pack is for "Timeless and Classic Guns: Zero".

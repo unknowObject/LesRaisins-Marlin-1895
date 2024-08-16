@@ -1,8 +1,6 @@
 <p align="center">
-    <img width="300" src="https://s2.loli.net/2024/04/30/NJrstR1QzpoLyIT.png" alt="title">
+    <img width="300" src="https://github.com/user-attachments/assets/019e489a-395f-48a3-bd3c-83582165112f" alt="title">
 </p>
-
-![2024-08-15_23 33 21](https://github.com/user-attachments/assets/39aafc0d-9d7c-4241-bdf1-19ecdf8ef9a5)
 
 <hr>
 <p align="center">Marlin 1895 from LesRaisins Append Pack for TacZ</p>

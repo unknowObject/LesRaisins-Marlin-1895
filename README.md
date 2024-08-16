@@ -43,11 +43,15 @@ The sound effect is also from "DB-2" which fit the animation pretty well. The re
 
  
 使用说明：
-打开".minecraft"目录，打开路径“config/tacz/custom”。如果你使用了版本隔离（即不同版本对应文件保存在“versions”文件夹中），则选择想要安装的版本，打开路径“config/tacz/custom”。
-将整个zip压缩文件拖入“custom”中。
-在游戏中使用指令“/tacz reload”或退出并重新进入存档即可正常加载扩展包。
+1. 打开".minecraft"目录，打开路径“config/tacz/custom”。如果你使用了版本隔离（即不同版本对应文件保存在“versions”文件夹中），则选择想要安装的版本，打开路径“config/tacz/custom”。
+
+2. 将整个zip压缩文件拖入“custom”中。
+
+3. 在游戏中使用指令“/tacz reload”或退出并重新进入存档即可正常加载扩展包。
  
 How to use：
-Open your .minecraft directory, go to "config/tacz/custom", or if you have different version just select the correct version and then go to "config".
-Drag the entire zipped pack in "custom".
-Either type command "/tacz reload" in game or reboot the game and the pack should be successfully loaded.
+1. Open your .minecraft directory, go to "config/tacz/custom", or if you have different version just select the correct version and then go to "config".
+
+2. Drag the entire zipped pack in "custom".
+
+3. Either type command "/tacz reload" in game or reboot the game and the pack should be successfully loaded.
